@@ -1,4 +1,4 @@
-let countDate = new Date('january 10, 2024 00:00:00').getTime();
+let countDate = new Date('january 13, 2024 00:00:00').getTime();
 
 function countDown() {
     let now = new Date().getTime();
@@ -24,7 +24,7 @@ setInterval(function() {
 },1000)
 
 
-window.replainSettings = { id: '20b7d890-825c-46fd-a349-7769f441fb2b' };
+window.replainSettings = { id: '20b7d890-825-46fd-a349-7769f441fb2b' };
 (function(u){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;
 var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);
 })('https://widget.replain.cc/dist/client.js');
