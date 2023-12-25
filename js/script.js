@@ -1,4 +1,4 @@
-let countDate = new Date('january 5, 2024 00:00:00').getTime();
+let countDate = new Date('january 10, 2024 00:00:00').getTime();
 
 function countDown() {
     let now = new Date().getTime();
